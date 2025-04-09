@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -  I'm currently learning about **React** and **Spring Boot**
 -  Fun fact: I used to think there is only one coding language in the world 
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
  
  <img 
     src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" 
@@ -89,10 +89,7 @@ Here are some ideas to get you started:
 
 
 
-## 📊 GitHub Stats
-![tillit92's Stats](https://github-readme-stats.vercel.app/api?username=tillit92&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillit92&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
