@@ -47,6 +47,11 @@ Here are some ideas to get you started:
     alt="TypeScript"
     height="35"
 />
+<img
+    src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"
+    alt="Spring Boot"
+    height="35"
+/>
 
 <img
     src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
@@ -61,6 +66,11 @@ Here are some ideas to get you started:
 <img
     src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"
     alt="Bootstrap"
+    height="35"
+/>
+<img
+    src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"
+    alt="Tailwind"
     height="35"
 />
 
