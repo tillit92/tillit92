@@ -52,7 +52,6 @@ Here are some ideas to get you started:
     alt="Spring Boot"
     height="35"
 />
-
 <img
     src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
     alt="MySQL"
